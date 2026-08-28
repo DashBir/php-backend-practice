@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<a href="task01.php">Task01</a><br>
+<a href="task02/index.php">Task02</a><br>
+<a href="task03/index.php">Task03</a><br>
+<a href="task04/index.php">Task04</a><br>
+<a href="task05/index.php">Task05</a><br>
+</body>
+</html>
